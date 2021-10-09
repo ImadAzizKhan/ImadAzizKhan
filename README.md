@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1> Muhammad Imad Aziz Khan </h1>
+<h2> Electrical Engineer </h2>
+<h3> Internet of Things Developer </h3>
 
-<!--
-**ImadAzizKhan/ImadAzizKhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Email Address: muhammadimadazizkhan@gmail.com  
+### GitHub Link: https://github.com/imad
+### LinkedIn: https://www.linkedin.com/in/imadaziz/ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+
+## EXPERIENCE 
+
+### SGS | Electrical Engineering Intern | September 2021 – October 2021 
+Working on Electrical Instruments Testing.
+
+<br/>
+
+## EDUCATION 
+
+### BE ELECTRICAL ENGINERING | NED UNIVERSITY OF ENGINEERING AND TECHNOLOGY 
+(2018 – Present) | CGPA 3.1
+
+### INTERMEDIATE | PECHS GOVERNMENT COLLEGE KARACHI 
+(2016 – 2018) 
+
+### MATRICULATION |CAA MODEL SCHOOL JIAP 
+(2014 – 2016)
