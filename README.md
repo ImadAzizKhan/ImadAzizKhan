@@ -4,7 +4,7 @@
 
 
 ### Email Address: muhammadimadazizkhan@gmail.com  
-### GitHub Link: https://github.com/imad
+### GitHub Link: https://github.com/ImadAzizKhan
 ### LinkedIn: https://www.linkedin.com/in/imadaziz/ 
 
 <br/>
